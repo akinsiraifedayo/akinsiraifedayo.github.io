@@ -1,0 +1,9 @@
+p {
+	border-style: 4px;
+	background-color: blue;
+}
+
+div {
+	padding-left: 2px;
+	padding-right: 2px;
+}
